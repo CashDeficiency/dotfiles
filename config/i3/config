@@ -1,0 +1,2 @@
+# dynamically load i3 config based on hostname
+include ./`hostname`.conf
