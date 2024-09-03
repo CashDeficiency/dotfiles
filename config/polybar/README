@@ -1,0 +1,5 @@
+## Polybar config
+
+Symlink polybar config upon installation.
+
+`ln -s [host].ini config`
