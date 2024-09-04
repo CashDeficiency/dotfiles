@@ -2,4 +2,4 @@
 
 Symlink polybar config upon installation.
 
-`ln -s [host].ini config`
+`ln -s [host].ini config.ini`
